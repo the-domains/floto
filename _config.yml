@@ -2,6 +2,7 @@ name: floto
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.3513827321585268
+title: floto
 cta:
   domain: null
   bucket: null
